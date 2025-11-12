@@ -2,12 +2,6 @@
 
 一个基于 Vue.js 构建的现代化聊天应用，集成 DeepSeek API，支持流式对话、Markdown 渲染、Mermaid 图表等功能。
 
-<<<<<<< HEAD
-![Vue](https://img.shields.io/badge/Vue-2.6.14-4FC08D?style=flat-square&logo=vue.js)
-![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
-
-=======
->>>>>>> d1974d651e2a0878f544bd99d891fa5f9033f725
 ## ✨ 功能特性
 
 - 💬 **流式对话** - 实时流式输出，提供流畅的对话体验
@@ -21,27 +15,8 @@
 - 🧠 **思考链显示** - 支持显示 AI 的思考过程（DeepSeek Reasoner 模型）
 
 ## 📸 项目截图
-<<<<<<< HEAD
 
-<!-- 
-  如何插入图片？请查看 docs/IMAGE_GUIDE.md 了解详细说明
-  
-  快速开始：
-  1. 创建 docs/images/ 文件夹
-  2. 将截图放入该文件夹
-  3. 取消下面的注释并修改路径
-  
-  示例：
-  ![主界面](./docs/images/main.png)
-  ![对话界面](./docs/images/chat.png)
-  ![Mermaid图表](./docs/images/mermaid.png)
-  
-  详细说明请参考：docs/IMAGE_GUIDE.md
--->
-=======
 <img width="2512" height="1314" alt="13ee8602f43345cd11efa1bfe41af925" src="https://github.com/user-attachments/assets/7676e6bb-25cc-4715-906a-21693b05c5f9" />
-
->>>>>>> d1974d651e2a0878f544bd99d891fa5f9033f725
 
 ## 🚀 快速开始
 
